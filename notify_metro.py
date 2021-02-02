@@ -1,14 +1,9 @@
 # postリクエストをline notify APIに送るためにrequestsのimport
 import time
-import datetime
 import csv
 import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from bs4 import BeautifulSoup
-import urllib.request
-from pathlib import Path
-import sys
 # import slackweb
 
 # webdriverの設定
