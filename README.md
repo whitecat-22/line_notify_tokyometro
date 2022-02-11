@@ -1,6 +1,6 @@
 # line_notify_tokyometro
 
-東京メトロの運行情報をLINE Notifyで通知する
+東京メトロの運行情報を[LINE Notify](https://notify-bot.line.me/ja/)で通知する
 
 　
 
